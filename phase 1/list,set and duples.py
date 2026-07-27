@@ -39,10 +39,27 @@ fruits = {"banana", "apple", "orange", "mango"}
 #fruits.remove("apple")
 #fruits.pop()
 
+#print(fruits)
 
 
+#tuples
 
-print(fruits)
+fruits = ("banana", "apple", "orange", "mango")
+
+
+#print(fruit[0])
+#print(dir(fruits))
+#print(help(fruits))
+#print("apple" in fruits)
+
+#fruits[0] = "pineapple"
+#fruits.append("pineapple")
+#fruits.remove("apple")
+#fruits.insert(0, "lemon")
+#fruits.sort()
+#fruits.reverse()
+#print(fruits.index("apple")
+#print(fruits.count("orange"))
 
 
 
